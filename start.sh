@@ -7,4 +7,3 @@ screen -dmS ltc-btc ./run-ltc-btc.sh
 #screen -dmS ltc-usd ./run-ltc-usd.sh
 #screen -dmS btc-eur ./run-btc-eur.sh
 #screen -dmS btc-gbp ./run-btc-gbp.sh
-screen -dmS xxbt-zusd ./run_kraken_xxbt_zusd.sh
