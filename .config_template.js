@@ -1,4 +1,4 @@
-var c = module.exports = require('./config_kraken')
+var c = module.exports = require('./config_prefix')
 
 c.assets = [
   "ASSET1"
@@ -9,4 +9,4 @@ c.currencies = [
 ]
 
 // default selector for indicators, etc
-c.default_selector = "kraken.ASSET1-ASSET2"
+c.default_selector = "prefix.ASSET1-ASSET2"
