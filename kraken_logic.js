@@ -10,8 +10,8 @@ var sig = require('sig')
 var KrakenClient = require('kraken-api');
 
 // Put here your credentials
-const kraken_key = 'h7gzyRHdedrXwIfVVri8g/SNTMMngkQRdC8CF6P5GW/A4nXNKwnnGM74'
-const kraken_secret = 'mQ0ii42Z3x5cffrXP6FUtsJ1i/0AJmbf0S3taE5zWuk11EAbbzKCaaTJIIvRgyzvphxN22l2e1nIlDiHq2yxgQ=='
+const kraken_key = ''
+const kraken_secret = ''
 
 
 module.exports = function container (get, set, clear) {
